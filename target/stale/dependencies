@@ -1,0 +1,1 @@
+([:dependencies [[org.clojure/clojure "1.4.0"] [org.clojars.dwwoelfel/osp "2.3"]]])
